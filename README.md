@@ -1,0 +1,2 @@
+# ClimaCheck
+Simple Weather App
